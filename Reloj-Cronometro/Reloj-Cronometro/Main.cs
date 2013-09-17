@@ -32,6 +32,7 @@ namespace RelojCronometro
 							case 3:
 									Console.WriteLine("Opcion NO VALIDA");
 							break;
+			}
 		}
 	}
 }
